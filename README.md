@@ -13,7 +13,7 @@ We provide Software for these people:
 The module in ecoReleve are built around these roles with a diffrent module for each use cases:
 
 
-* ecoRelevé Mobile : designed for field data entry and field workers
+* [ecoRelevé Mobile](http://naturalsolutions.github.com/ecoReleve-Mobile/): designed for field data entry and field workers
 * ecoRelevé Explorer : designed for data exploration and scientist
 * ecoRelevé Concepts : designed for data admin thesaurus and protocoles
 * ecoReleve Core: the backend database management system

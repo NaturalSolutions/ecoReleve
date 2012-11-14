@@ -1,21 +1,21 @@
-ecoRelevé
+ecoRelevé platform
 =========
-A free and open source biodiversity data management software.
+A free and open source biodiversity data management platform.
 
 ![ecoReleve](http://ecoreleve.googlecode.com/files/ecoreleve%20logo%20small.jpg)
 
-We provide Software for these people:
+ecoRelevé is designed for:
 
-* Field Worker: that actually run the data collection and data entries
-* Data administrator: that maanage the database and decide upon thesaurus and  taxonomy 
-* Scientist: Formalize ecological questions and data gathering processes
+* Field Worker that actually runs the data collection and data entries
+* Data administrator that manages the database and decide upon thesaurus and taxonomy 
+* Scientist Formalizes ecological questions and data gathering processes
 
-The module in ecoReleve are built around these roles with a diffrent module for each use cases:
+ecoRelevé is built around these roles and is composed of four modules:
 
 
-* [ecoRelevé Mobile](http://naturalsolutions.github.com/ecoReleve-Mobile/): designed for field data entry and field workers
-* [ecoRelevé Explorer](http://naturalsolutions.github.com/ecoReleve-Explorer/): designed for data exploration and scientist
-* [ecoRelevé Concepts](http://naturalsolutions.github.com/ecoReleve-Concepts/) : designed for data admin thesaurus and protocoles
+* [ecoRelevé Mobile](http://naturalsolutions.github.com/ecoReleve-Mobile/): designed for field data entry
+* [ecoRelevé Explorer](http://naturalsolutions.github.com/ecoReleve-Explorer/): designed for data exploration analysis and visualization
+* [ecoRelevé Concepts](http://naturalsolutions.github.com/ecoReleve-Concepts/): designed to deal with concept definitions (thesaurus, protocol and taxonomy)
 * ecoReleve Core: the backend database management system
 
 

@@ -22,7 +22,12 @@ ecoRelevé architecture
 
 ![ecoRelevé architecture](https://raw.github.com/NaturalSolutions/ecoReleve/master/Images/ecoReleve.png)
 
-<iframe src="http://fr.slideshare.net/slideshow/embed_code/5228378" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://fr.slideshare.net/orovellotti/ns-foss4-g-5228378" title="Foss4g 2010 Open source response to the biodiversity crisis" target="_blank">Foss4g 2010 Open source response to the biodiversity crisis</a> </strong> from <strong><a href="http://fr.slideshare.net/orovellotti" target="_blank">Olivier Rovellotti</a></strong> </div>
+ecoRelevé Slideshare
+------------
+
+![ecoRelevé Foss4G 2010](http://fr.slideshare.net/orovellotti/ns-foss4-g-5228378)
+![ecoRelevé TDWG 2011](http://fr.slideshare.net/orovellotti/tdwg2011)
+
 
 Contributing
 ------------

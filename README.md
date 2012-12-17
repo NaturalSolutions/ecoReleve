@@ -20,13 +20,13 @@ ecoRelevé is built around these roles and is composed of four modules:
 
 ecoRelevé architecture
 
-![ecoRelevé architecture](https://raw.github.com/NaturalSolutions/ecoReleve/master/Images/ecoReleve (2).png)
+![ecoRelevé architecture](https://raw.github.com/NaturalSolutions/ecoReleve/master/Images/ecoReleve(2).png)
 
 ecoRelevé Slideshare
 ------------
 
-![ecoRelevé Foss4G 2010](http://fr.slideshare.net/orovellotti/ns-foss4-g-5228378)
-![ecoRelevé TDWG 2011](http://fr.slideshare.net/orovellotti/tdwg2011)
+*[ecoRelevé Foss4G 2010](http://fr.slideshare.net/orovellotti/ns-foss4-g-5228378)
+*[ecoRelevé TDWG 2011](http://fr.slideshare.net/orovellotti/tdwg2011)
 
 
 Contributing

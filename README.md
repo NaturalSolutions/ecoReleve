@@ -15,9 +15,8 @@ ecoRelevé is built around these roles and is composed of four modules:
 
 * [ecoRelevé Data](http://naturalsolutions.github.com/ecoReleve-Data/): designed for field data entry
 * [ecoRelevé Explorer](http://naturalsolutions.github.com/ecoReleve-Explorer/): designed for data exploration analysis and visualization
-* [ecoRelevé Concepts](http://naturalsolutions.github.com/ecoReleve-Concepts/): designed to deal with concept definitions (thesaurus, protocol and taxonomy)
-* [ecoRelevé Concepts](http://naturalsolutions.github.com/ecoReleve-Concepts/): designed to deal with concept definitions (thesaurus, protocol and taxonomy)
-* [ecoReleve Core](http://naturalsolutions.github.com/ecoReleve-Core/): the backend database management system
+* [ecoRelevé Glossary](http://naturalsolutions.github.com/ecoReleve-Concepts/): designed to deal with concept definitions (thesaurus, protocol and taxonomy)
+* [ecoReleve Core](http://naturalsolutions.github.io/ecoReleve-Core/): the backend database management system
 
 ecoRelevé architecture
 

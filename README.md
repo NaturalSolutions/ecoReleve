@@ -20,7 +20,9 @@ ecoRelevé is built around these roles and is composed of four modules:
 
 ecoRelevé architecture
 
-![ecoRelevé architecture](https://raw.github.com/NaturalSolutions/ecoReleve/master/Images/ecoReleve2.png)
+![ecoRelevé](https://github.com/NaturalSolutions/ecoReleve/blob/master/Images/newecoReleve.png)
+![ecoRelevé architecture](https://github.com/NaturalSolutions/ecoReleve/blob/master/Images/newecoReleve2.png)
+
 
 ecoRelevé Slideshare
 ------------

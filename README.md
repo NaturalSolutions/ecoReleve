@@ -10,6 +10,8 @@ ecoRelevé is designed for:
 * Data administrator that manages the database and decide upon thesaurus and taxonomy 
 * Scientist Formalizes ecological questions and data gathering processes
 
+![ecoRelevé](https://github.com/NaturalSolutions/ecoReleve/blob/master/Images/newecoReleve.png)
+
 ecoRelevé is built around these roles and is composed of four modules:
 
 * [ecoRelevé Explorer](http://naturalsolutions.github.com/ecoReleve-Explorer/): designed for data exploration analysis and visualization
@@ -20,7 +22,6 @@ ecoRelevé is built around these roles and is composed of four modules:
 
 ecoRelevé architecture
 
-![ecoRelevé](https://github.com/NaturalSolutions/ecoReleve/blob/master/Images/newecoReleve.png)
 ![ecoRelevé architecture](https://github.com/NaturalSolutions/ecoReleve/blob/master/Images/newecoReleve2.png)
 
 

@@ -20,11 +20,6 @@ ecoRelevé is built around these roles and is composed of four modules:
 * [ecoRelevé FormBuilder](https://github.com/NaturalSolutions/NS.UI.FormBuilder) : designed to deal with the protocol definition 
 
 
-ecoRelevé architecture
-
-![ecoRelevé](https://github.com/NaturalSolutions/ecoReleve/blob/master/Images/newecoReleve.png)
-
-
 ecoRelevé Slideshare
 ------------
 
@@ -43,6 +38,11 @@ ecoRelevé is an open source project. Please help us by contributing to document
 Twitter
 ------------
 Please consider following the [@Nat_Solutions](https://twitter.com/Nat_Solutions) Twitter team for updates.
+
+
+ecoRelevé process
+
+![ecoRelevé](https://github.com/NaturalSolutions/ecoReleve/blob/master/Images/newecoReleve.png)
 
 
 Sponsor

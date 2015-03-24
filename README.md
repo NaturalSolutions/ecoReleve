@@ -18,7 +18,7 @@ ecoRelevé is built around these roles and is composed of four modules:
 * [ecoReleve Data](https://github.com/NaturalSolutions/ecoReleve-Data): designed for field data entry
 * ecoReleve Thesaurus: designed to deal with concept definitions (thesaurus and taxonomy)
 * [ecoReleve FormBuilder](https://github.com/NaturalSolutions/NS.UI.FormBuilder) : designed to deal with the protocol definition 
-* [ecoReleve Server](https://github.com/NaturalSolutions/ecoReleve-Server) : Server + ORM  
+* [ecoReleve Server](https://github.com/NaturalSolutions/ecoReleve-Server) : server component for CRUD operations in the database layer  
 
 
 ecoRelevé Slideshare

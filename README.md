@@ -24,9 +24,6 @@ ecoRelevé is built around these roles and is composed of four modules:
 
 Video 
 =======
-Demo
-
-------------
 
 [![ecoReleve ScreenCast ](https://i.ytimg.com/vi/joLoP7Q4YY4/mqdefault.jpg)](https://www.youtube.com/watch?v=joLoP7Q4YY4)
 
@@ -40,7 +37,9 @@ ecoRelevé Slideshare
 ------------
 
 *[ecoRelevé Foss4G 2010](http://fr.slideshare.net/orovellotti/ns-foss4-g-5228378)
+
 *[ecoRelevé TDWG 2011](http://fr.slideshare.net/orovellotti/tdwg2011)
+
 *[ecoRelevé TDWG 2014](http://fr.slideshare.net/orovellotti/orovellotti-eco-releve-tdwg-2014)
 
 

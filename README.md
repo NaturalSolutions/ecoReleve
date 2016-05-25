@@ -30,7 +30,7 @@ Video
 Demo 
 ------------
 
-###**[Online demo here] (http://92.222.217.165/nslocalportal/)**
+###**[Online demo here] (http://demo.ecoreleve.com/)**
 
 
 ecoRelevé Slideshare

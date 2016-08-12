@@ -2,7 +2,7 @@ ecoRelevé platform
 =========
 A free and open source biodiversity data management platform.
 
-![ecoReleve](http://ecoreleve.googlecode.com/files/ecoreleve%20logo%20small.jpg)
+![ecoReleve](https://github.com/NaturalSolutions/ecoReleve/blob/master/Images/icone.png)
 
 ecoRelevé is designed for:
 

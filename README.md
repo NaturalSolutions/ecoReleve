@@ -20,7 +20,7 @@ ecoRelevé is built around these roles and is composed of four modules:
 * [ecoReleve FormBuilder](https://github.com/NaturalSolutions/NS.UI.FormBuilder) : designed to deal with the protocol definition 
 * [ecoReleve Server](https://github.com/NaturalSolutions/ecoReleve-Server) : server component for CRUD operations in the database layer  
 
-![ecoReleve](https://static.squarespace.com/static/519a7bc0e4b08ccdf8f31445/t/53c9549ae4b0a11d417c1d12/1405703324816/?format=1000w)
+![ecoReleve](https://static1.squarespace.com/static/519a7bc0e4b08ccdf8f31445/t/57addb672e69cf1f18bf7d3d/1471011777134/?format=1000w)
 
 Video 
 =======
